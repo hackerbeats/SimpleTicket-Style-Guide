@@ -12,7 +12,7 @@ I got the idea for SimpleTicket from my current full-time job, where we are in t
 ## Execution
 My goal was to create a professional looking style guide with the feel of a real brand, but utilize tools and resources to expedite the process so I wouldn't spend too much time on the project.
 
-My first step was to create the SimpleTicket logo. I decided to utilize <a href="https://openai.com/dall-e-2/">DALL•E 2<a> to assist with this effort.
+My first step was to create the SimpleTicket logo. I decided to employ the help of <a href="https://openai.com/dall-e-2/">DALL•E 2<a> to assist with this effort.
   
 On my fifth prompt to DALL•E, I landed on some good results and found my logo mark of choice: a somewhat distraught-looking helpdesk agent.
 
