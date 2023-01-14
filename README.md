@@ -20,7 +20,7 @@ On my fifth prompt to DALL•E, I landed on some good results and found my logo 
 
 ![SimpleTicket logo prompt screenshot highlighted](https://user-images.githubusercontent.com/122168069/212476511-9ab2d27f-b8e1-45e2-8bd3-f2e80b450030.png) 
   
-This DALL•E generated icon image spoke to me. We've all been there before, tethered to the support line and at the whims of disgruntled customers. 
+This DALL•E generated icon image spoke to me. We've all been there before, tethered to the support line and at the whim of endless inquiries and disgruntled customers. 
 
 I then imported the DALL•E .png icon file into Adobe Illustrator and performed Image Trace to vectorize the image for further editing.
   
