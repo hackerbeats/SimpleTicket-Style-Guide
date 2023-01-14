@@ -46,7 +46,7 @@ I utilized VSCode to build out the website, and the Live Server VSCode plugin to
   
 ## Insights  
 
-It took a few days and some overcoming of roadblocks to complete the site build and achieve a finished product that closely resembled my design mockup. I had to adjust the design slightly in a few areas so that the website would be optimized for all screen sizes, large and small, but ultimately I believe these changes improved the design overall. Part of what I have greatly enjoyed thus far with web design and development has been the challenge of working around constraints, and using them to as an opportunity to solve problems with creativity.
+It took a few days and some overcoming of roadblocks to complete the site build and achieve a finished product that closely resembled my design mockup. I had to adjust the design slightly in a few areas so that the website would be optimized across screen sizes, but ultimately I believe these changes improved the design overall. Part of what I have greatly enjoyed thus far with web design and development has been the challenge of working around constraints, and using them to as an opportunity to solve problems with creativity.
   
 I learned several new skills through this project, including how to utilize .svg image files (the quality of the SimpleTicket logo boosted tenfold after converting it from a .png to an .svg for the site), how to add a favicon to a website, and how to properly link fonts and images within a GitHub repository. The project also definitely helped me level up my CSS styling skills and gain a better handle on how to achieve a certain look and feel on the web.
   
