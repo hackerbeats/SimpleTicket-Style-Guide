@@ -1,0 +1,224 @@
+/* UNIVERSAL STYLES */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    color: #163057;
+}
+
+@font-face {
+    font-family: 'CascadiaCode';
+    src: url('../Fonts/CascadiaCode.woff2') format('woff2'), 
+    url('../Fonts/CascadiaCode.ttf') format('truetype');
+}
+
+h1 {
+    font-family: 'CascadiaCode';
+    font-size: 45px;
+}
+
+p {
+    font-family: Consolas;
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+h2 {
+    font-family: Consolas;
+    font-size: 35px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+a {
+    color: #0D8992;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #10587A;
+}
+
+/* HEADER */
+
+.logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.styleguide {
+    text-align: center;
+}
+
+/* MAIN */
+
+.bumpers {
+    display: block; 
+    margin: 0px auto;
+    padding-top: 75px;
+    width: 50%;
+}
+
+.pspacer {
+    height: 30px;
+}
+
+div.colors {
+    display: inline-block;
+    text-align: center;
+    margin: 0px auto;
+    border: 3px solid;
+    border-radius: 15px;
+    width: 100%;
+}
+
+.colors > div {
+    border-radius: 15px;
+    height: 200px;
+    width: 200px;
+    margin: 20px 10px;
+}
+
+.darkblue {
+    display: inline-block;
+    background-color: #163057;
+}
+
+.darkblue > p {
+    color: #E7E7DF;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.lightblue {
+    display: inline-block;
+    background-color: #10587A;
+}
+
+.lightblue > p {
+    color: #E7E7DF;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.green {
+    display: inline-block;
+    background-color: #0D8992;
+}
+
+.green > p {
+    color: #E7E7DF;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.offwhite {
+    display: inline-block;
+    background-color: #E7E7DF;
+}
+
+.offwhite > p {
+    color: #163057;
+    text-align: center;
+    padding-top: 80px;
+}
+
+div.fonts {
+    display: block;
+    border: 3px solid;
+    border-radius: 15px;
+}
+
+h2.consolas {
+    font-family: Consolas;
+    font-size: 35px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+p.consolas-normal {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+p.consolas-p-italic {
+    font-style: italic;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+p.consolas-p-italicbold {
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+h2.cascadia {
+    font-family: 'CascadiaCode';
+    font-size: 35px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+p.cascadia-p {
+    font-family:'Cascadia Code';
+    font-size: 18px;
+    line-height: 1.4;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+p.cascadia-p-italicbold {
+    font-family:'Cascadia Code';
+    font-size: 18px;
+    line-height: 1.4;
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+div.text-styles {
+    display: block;
+    border: 3px solid;
+    border-radius: 15px;
+}
+
+#text-styles-h1 {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+
+#text-styles-h2 {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+
+#text-styles-p {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+
+ul {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.footer {
+    margin-top: 300px;
+    margin-bottom: 100px;
+}
