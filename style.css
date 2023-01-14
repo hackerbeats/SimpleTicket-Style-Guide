@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'CascadiaCode';
-    src: url('..Fonts/CascadiaCode.woff2') format('woff2'), 
-    url('..Fonts/CascadiaCode.ttf') format('truetype');
+    src: url('Fonts/CascadiaCode.woff2') format('woff2'), 
+    url('Fonts/CascadiaCode.ttf') format('truetype');
 }
 
 h1 {
