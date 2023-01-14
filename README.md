@@ -36,7 +36,7 @@ My next move was to dial in the SimpleTicket brand colors. I utilized a fantasti
 
 Now that I had the logo and colors, I was ready to create the website prototype.
   
-I again utilized Adobe Illustrator to create a rough mockup of the look and feel I had in mind for the style guide website. I also dialed in the fonts and text styles at this stage.
+I again utilized Adobe Illustrator to create a rough mockup of the look and feel I had in mind for the style guide website. I also figured out the fonts and text styles at this stage.
   
 ![SimpleTicket style guide mockup](https://user-images.githubusercontent.com/122168069/212478013-206ac69e-d11f-464e-9d4d-6ed1c1a66776.png)
 
