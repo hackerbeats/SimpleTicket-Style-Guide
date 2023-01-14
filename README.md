@@ -14,11 +14,11 @@ My goal was to create a professional looking style guide with the feel of a real
 
 My first step was to create the SimpleTicket logo. I decided to employ the help of <a href="https://openai.com/dall-e-2/">DALL•E 2<a> to assist with this effort.
   
-On my fifth prompt to DALL•E, I landed on some good results and found my logo mark of choice: a somewhat distraught-looking helpdesk agent.
+On my fifth prompt to DALL•E, I landed on some good results and found my logo mark of choice.
 
 ![SimpleTicket logo prompt screenshot highlighted](https://user-images.githubusercontent.com/122168069/212476511-9ab2d27f-b8e1-45e2-8bd3-f2e80b450030.png) 
   
-This DALL•E generated icon image spoke to me. We've all been there before, tethered to the support line and at the whim of endless inquiries and disgruntled customers. 
+This nicely designed and somewhat distraught-looking helpdesk agent spoke to me. We've all been there before, tethered to the support line and at the whim of endless inquiries and disgruntled customers. 
 
 I downloaded the DALL•E .png icon file, then imported it into Adobe Illustrator and performed Image Trace to vectorize the image for further editing.
   
