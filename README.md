@@ -42,4 +42,12 @@ I again utilized Adobe Illustrator to create a rough mockup of the look and feel
 
 With the logo, color scheme and prototype all dialed in, I was now ready to convert the design into HTML and CSS code.
 
-I utilized VSCode to build out the website, and the Live Server VSCode plugin to continually deploy the site locally to Chrome and check my work. Using the Open Live Server shortcut (Alt+L Alt+O) was very helpful to fire up quick site previews.
+I utilized VSCode to build out the website, and the Live Server VSCode plugin to continually deploy the site locally to Chrome and check my work. Using the Open Live Server shortcut (Alt+L Alt+O) was a very helpful workflow tool to fire up quick site previews.
+  
+## Insights  
+
+It took a few days and some overcoming of roadblocks to complete the site build and achieve a finished product that closely resembled my design mockup. I had to adjust the design slightly in a few areas so that the website would be optimized for all screen sizes, large and small, but ultimately I believe these changes improved the design overall. Part of what I have greatly enjoyed thus far with web design and development has been the challenge of working around constraints, and using them to as an opportunity to solve problems with creativity.
+  
+I learned several new skills through this project, including how to utilize .svg image files (the quality of the SimpleTicket logo boosted tenfold after converting it from a .png to an .svg for the site), how to add a favicon to a website, and how to properly link fonts and images within a GitHub repository. The project also definitely helped me level up my CSS styling skills and gain a better handle on how to achieve a certain look and feel on the web.
+  
+Overall, I am very happy with the end result. Here is a link to check out the live <a href="https://hackerbeats.github.io/SimpleTicket-Style-Guide/">SimpleTicket Style Guide</a>.  
