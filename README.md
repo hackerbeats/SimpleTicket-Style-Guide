@@ -9,7 +9,7 @@ To help make the project feel like more of a real world task, I decided to spin 
 
 ![image](https://user-images.githubusercontent.com/122168069/212477197-747b49ef-7f78-44e9-8ec9-678c141fab84.png)
 
-I got the idea for SimpleTicket from my current full-time job, where we are in the midst of implementing a new full-scale ERP system. Given the numerous bugs that have been popping up with the new system, the ERP team created an internal ticketing tool built on Notion to help employees submit bugs and issues. The tool works pretty well, but has a few shortcomings. I felt it would be cool to create a super simple ticketing tool with a clean, minimalist UI to help serve this purpose.
+I got the idea for SimpleTicket from my current full-time job, where we are in the midst of implementing a new full-scale ERP system. Given the numerous bugs that have been popping up with the new system, the ERP team created an internal ticketing tool built on Notion to help employees submit bugs and issues. The tool works pretty well, but has a few shortcomings. I felt it would be cool to create a super simple ticketing tool with a clean, minimal UI to help serve this purpose.
 
 ## Execution
 My goal was to create a professional looking style guide with the feel of a real brand, but utilize tools and resources to expedite the process so I don't spend too much time on the project.
