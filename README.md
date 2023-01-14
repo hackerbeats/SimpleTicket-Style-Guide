@@ -5,7 +5,7 @@
 
 The task for this project was simple and open-ended: build your own basic design system for a website.
 
-To help make this project feel like more of a real world task, I decided to spin up a fictitious product and brand called SimpleTicket to build a style guide around. I pulled the idea for SimpleTicket from my Dev / Project Ideas folder in Notion.
+To help make the project feel like more of a real world task, I decided to spin up a fictitious product and brand called SimpleTicket to build a style guide around. I pulled the idea for SimpleTicket from my Dev / Project Ideas folder in Notion.
 
 ![image](https://user-images.githubusercontent.com/122168069/212477197-747b49ef-7f78-44e9-8ec9-678c141fab84.png)
 
