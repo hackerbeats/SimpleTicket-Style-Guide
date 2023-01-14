@@ -22,7 +22,7 @@ On my fifth prompt to DALL•E, I landed on some good results and found my logo 
   
 This DALL•E generated icon image spoke to me. We've all been there before, tethered to the support line and at the whim of endless inquiries and disgruntled customers. 
 
-I then imported the DALL•E .png icon file into Adobe Illustrator and performed Image Trace to vectorize the image for further editing.
+I downloaded the DALL•E .png icon file, then imported it into Adobe Illustrator and performed Image Trace to vectorize the image for further editing.
   
 ![Illustrator image trace](https://user-images.githubusercontent.com/122168069/212476653-a2f1ca25-c049-41a4-9061-e29246c98b56.png)
 
