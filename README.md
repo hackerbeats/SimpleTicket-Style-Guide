@@ -40,7 +40,7 @@ I again utilized Adobe Illustrator to create a rough mockup of the look and feel
   
 ![SimpleTicket style guide mockup](https://user-images.githubusercontent.com/122168069/212478013-206ac69e-d11f-464e-9d4d-6ed1c1a66776.png)
 
-With the logo, color scheme and prototype all dialed in, I was now ready to convert the design into HTML and CSS code.
+With the logo, color scheme and prototype all finalized, I was now ready to convert the design into HTML and CSS code.
 
 I utilized VSCode to build out the website, and the Live Server VSCode plugin to continually deploy the site locally to Chrome and check my work. Using the Open Live Server shortcut (Alt+L Alt+O) was a very helpful workflow tool to fire up quick site previews.
   
