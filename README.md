@@ -33,3 +33,9 @@ I removed the neck and shoulders portion of the icon, cleaned up some of the vec
 My next move was to dial in the SimpleTicket brand colors. I utilized a fantastic website called <a href="https://colorhunt.co/">Color Hunt</a> to search for pre-made designer-quality color palletes and quickly found a beautiful blue-green-offwhite color scheme that would fit nicely with the brand.
  
 ![image](https://user-images.githubusercontent.com/122168069/212477735-461366a8-5f5b-47ed-8fd6-c868bd77812d.png)
+
+Now that I had the logo and colors, I was ready to create the website prototype.
+  
+I again utilized Adobe Illustrator to create a rough mockup of the look and feel I had in mind for the style guide website. I also dialed in the fonts and text styles at this stage.
+  
+![SimpleTicket style guide mockup](https://user-images.githubusercontent.com/122168069/212478013-206ac69e-d11f-464e-9d4d-6ed1c1a66776.png)
