@@ -1,7 +1,7 @@
 # SimpleTicket Style Guide
 
 ## Overview
-<a href="https://hackerbeats.github.io/SimpleTicket-Style-Guide/">SimpleTicket Style Guide</a> is a project I completed as part of the <a href="https://join.codecademy.com/learn/paths/full-stack-engineer-career-path/">Codecademy Full Stack Engineer Path</a> course.
+<a href="https://user5142.github.io/SimpleTicket-Style-Guide/">SimpleTicket Style Guide</a> is a project I completed as part of the <a href="https://join.codecademy.com/learn/paths/full-stack-engineer-career-path/">Codecademy Full Stack Engineer Path</a> course.
 
 The task for this project was simple and open-ended: build your own basic design system for a website.
 
@@ -50,4 +50,4 @@ It took a few days and some overcoming of roadblocks to complete the site build 
   
 I learned several new skills through this project, including how to utilize .svg image files (the quality of the SimpleTicket logo boosted tenfold after converting it from a .png to an .svg for the site), how to add a favicon to a website and how to properly link fonts and images within a GitHub repository. The project also definitely helped me level up my CSS styling skills and gain a better handle on how to achieve a certain look and feel on the web.
   
-Overall, I am very happy with the end result. Here is a link to check out the live <a href="https://hackerbeats.github.io/SimpleTicket-Style-Guide/">SimpleTicket Style Guide</a>.  
+Overall, I am very happy with the end result. Here is a link to check out the live <a href="https://user5142.github.io/SimpleTicket-Style-Guide/">SimpleTicket Style Guide</a>.  
